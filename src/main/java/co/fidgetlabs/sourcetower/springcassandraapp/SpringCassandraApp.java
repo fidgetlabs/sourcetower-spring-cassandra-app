@@ -1,4 +1,4 @@
-package co.fidgetlabs.sourcetower.samplegradleapp3;
+package co.fidgetlabs.sourcetower.springcassandraapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

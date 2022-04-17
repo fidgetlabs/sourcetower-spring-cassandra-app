@@ -1,4 +1,4 @@
-package co.fidgetlabs.sourcetower.samplegradleapp3;
+package co.fidgetlabs.sourcetower.springcassandraapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
