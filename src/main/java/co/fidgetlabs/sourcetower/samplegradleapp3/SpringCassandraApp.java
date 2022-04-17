@@ -1,13 +1,13 @@
-package io.fidgetlabs.samplegradleapp3;
+package co.fidgetlabs.sourcetower.samplegradleapp3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SampleGradleApp3Application {
+public class SpringCassandraApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SampleGradleApp3Application.class, args);
+		SpringApplication.run(SpringCassandraApp.class, args);
 	}
 
 }
